@@ -1,0 +1,240 @@
+{
+    "hero": {
+        "title": "Expert Medical Education for Healthcare Pros",
+        "subtitle": "Join thousands of doctors and medical students advancing their careers with clinically-focused online courses taught by leading experts.",
+        "primaryBtn": "Explore Courses",
+        "secondaryBtn": "Read Blogs",
+        "socialProof": {
+            "text": "1K+ users already learnt from us",
+            "subtext": "Join a global community of medical learners",
+            "avatars": [
+                "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=100&h=100&fit=crop&crop=faces",
+                "https://images.unsplash.com/photo-1594824476967-48c8b964273f?w=100&h=100&fit=crop&crop=faces",
+                "https://images.unsplash.com/photo-1622253692010-333f2da6031d?w=100&h=100&fit=crop&crop=faces"
+            ]
+        },
+        "floatingCards": [
+            {
+                "icon": "Star",
+                "text": "Elite Medical Mentors",
+                "color": "pink"
+            },
+            {
+                "icon": "ShieldCheck",
+                "text": "Accredited Content",
+                "color": "sky"
+            },
+            {
+                "icon": "UserCheck",
+                "text": "50k+ Success Stories",
+                "color": "slate"
+            },
+            {
+                "icon": "Clock",
+                "title": "24/7 Academic Support",
+                "subtitle": "Expert help whenever you need it",
+                "color": "blue"
+            }
+        ],
+        "image": "/hero-doctor.png"
+    },
+    "marquee": {
+        "text": "Learn from educators with experience at top medical institutions",
+        "institutions": [
+            {
+                "name": "AIIMS",
+                "icon": "Landmark"
+            },
+            {
+                "name": "Apollo Hospitals",
+                "icon": "Activity"
+            },
+            {
+                "name": "Manipal",
+                "icon": "HeartPulse"
+            },
+            {
+                "name": "Fortis",
+                "icon": "Stethoscope"
+            },
+            {
+                "name": "Max Healthcare",
+                "icon": "Building2"
+            },
+            {
+                "name": "Medanta",
+                "icon": "ShieldCheck"
+            }
+        ]
+    },
+    "stats": {
+        "tag": "Our Impact",
+        "title": "Transforming Medical Education",
+        "subtitle": "Join thousands of healthcare professionals advancing their knowledge with our comprehensive learning platform.",
+        "cards": [
+            {
+                "icon": "BookOpen",
+                "number": "25+",
+                "label": "Courses Available",
+                "description": "Expert-led courses across multiple medical specialties and skill levels.",
+                "ctaText": "Browse Catalog"
+            },
+            {
+                "icon": "Video",
+                "number": "500+",
+                "label": "Hours of Content",
+                "description": "Comprehensive video lectures, case studies, and interactive learning materials.",
+                "ctaText": "Watch Preview"
+            },
+            {
+                "icon": "Clock",
+                "number": "24/7",
+                "label": "Learning Access",
+                "description": "Study anytime, anywhere with lifetime access to all course materials and updates.",
+                "ctaText": "Get Started"
+            }
+        ]
+    },
+    "featuredCourses": {
+        "tag": "Premium Medical Education",
+        "title": "Master Your Clinical Skills",
+        "ctaText": "Explore Full Course Catalog",
+        "courses": [
+            {
+                "id": "clinical-diagnostics-masterclass",
+                "title": "Clinical Diagnostics Masterclass",
+                "description": "Master the art of clinical diagnosis with evidence-based methodologies and real-world case studies.",
+                "duration": "12 weeks",
+                "students": "2,500+",
+                "price": "299",
+                "image": "/course_diagnostics.png"
+            },
+            {
+                "id": "advanced-medical-anatomy",
+                "title": "Advanced Medical Anatomy",
+                "description": "Comprehensive anatomy training for healthcare professionals using modern 3D visualization techniques.",
+                "duration": "10 weeks",
+                "students": "1,800+",
+                "price": "249",
+                "image": "/course_anatomy.png"
+            },
+            {
+                "id": "patient-care-excellence",
+                "title": "Patient Care Excellence",
+                "description": "Elevate your patient care skills with proven techniques that improve outcomes and satisfaction.",
+                "duration": "8 weeks",
+                "students": "3,200+",
+                "price": "199",
+                "image": "/course_patient_care.png"
+            },
+            {
+                "id": "emergency-medicine-essentials",
+                "title": "Emergency Medicine Essentials",
+                "description": "Rapid response protocols and critical care strategies for high-pressure emergency situations.",
+                "duration": "6 weeks",
+                "students": "4,500+",
+                "price": "279",
+                "image": "/course_emergency.png"
+            }
+        ]
+    },
+    "instructor": {
+        "tag": "About Your Instructor",
+        "title": "15+ Years of Medical Excellence",
+        "description": "With over 15 years of clinical experience and a passion for education, Dr. Academy has helped thousands of healthcare professionals advance their skills and provide better patient care.",
+        "credentials": [
+            "Board-certified physician with extensive clinical experience",
+            "Published researcher in leading medical journals",
+            "Award-winning educator and mentor"
+        ],
+        "buttonText": "Learn More",
+        "image": "/instructor.png"
+    },
+    "howItWorks": {
+        "tag": "How It Works",
+        "title": "Expert-Led Learning, Simplified for Your Success",
+        "subtitle": "Our proven process makes medical education accessible and effective. Master complex medical concepts in just a few simple steps.",
+        "steps": [
+            {
+                "id": "01",
+                "title": "Browse & Choose a Course",
+                "content": "Explore our comprehensive catalog of medical courses across specialties like Cardiology, Neurology, Surgery, and more. Filter by specialty, skill level, or topic to find the perfect course that matches your learning goals and career advancement needs."
+            },
+            {
+                "id": "02",
+                "title": "Enroll & Access Instantly",
+                "content": "Complete a simple enrollment process and gain immediate access to your chosen course. Start learning right away with our user-friendly platform that works seamlessly across all devices—desktop, tablet, or mobile."
+            },
+            {
+                "id": "03",
+                "title": "Learn at Your Own Pace",
+                "content": "Watch expert-led video lectures, review detailed case studies, and work through interactive assessments whenever your schedule allows. Our courses are designed for busy medical professionals—learn during your commute, between shifts, or in dedicated study sessions."
+            },
+            {
+                "id": "04",
+                "title": "Practice & Apply Knowledge",
+                "content": "Reinforce your learning through clinical scenarios, case-based discussions, and practical exercises. Access downloadable resources, reference materials, and supplementary readings to deepen your understanding and apply concepts directly to your practice."
+            },
+            {
+                "id": "05",
+                "title": "Earn Your Certificate",
+                "content": "Complete course assessments and earn a verified certificate of completion to showcase your expertise. Add credentials to your professional portfolio, share on LinkedIn, and demonstrate your commitment to continuous medical education and career development."
+            }
+        ]
+    },
+    "testimonials": {
+        "tag": "What Our Students Say",
+        "title": "Trusted by Medical Professionals Worldwide",
+        "subtitle": "Join thousands of doctors, residents, and medical students who have transformed their careers through our courses.",
+        "items": [
+            {
+                "name": "Dr. Priya Sharma",
+                "title": "Cardiology Resident, AIIMS Delhi",
+                "course": "Advanced Cardiovascular Medicine",
+                "rating": 5,
+                "text": "This course completely transformed my understanding of complex cardiac cases. The clinical scenarios were incredibly practical, and the teaching style made even the most challenging concepts easy to grasp. I've already applied what I learned during my ICU rotations.",
+                "avatar": "/avatar_doctor_female.png"
+            },
+            {
+                "name": "Dr. Rajesh Kumar",
+                "title": "General Physician, 8 Years Exp.",
+                "course": "Emergency Medicine Essentials",
+                "rating": 5,
+                "text": "As an GP running my own clinic, I needed to refresh my emergency management skills. This course was exactly what I needed—concise, evidence-based, and full of practical protocols I could implement immediately. Highly recommend!",
+                "avatar": "/avatar_doctor_male_1.png"
+            },
+            {
+                "name": "Ananya Desai",
+                "title": "Final Year MBBS Student",
+                "course": "Clinical Medicine Fundamentals",
+                "rating": 5,
+                "text": "I was struggling with my clinical postings and felt overwhelmed by the amount of information. These courses broke everything down systematically with real patient cases. The instructor's bedside teaching approach helped me excel in my final exams.",
+                "avatar": "/avatar_student_female.png"
+            },
+            {
+                "name": "Dr. Vikram Mehta",
+                "title": "Surgery Resident, Year 3",
+                "course": "Surgical Techniques & Decision Making",
+                "rating": 5,
+                "text": "The surgical decision-making course was a game-changer for me. The case-based approach with video demonstrations and step-by-step breakdowns improved my confidence in the OR significantly. Worth every minute!",
+                "avatar": "/avatar_doctor_male_2.png"
+            },
+            {
+                "name": "Dr. Meera Patel",
+                "title": "Consultant Neurologist",
+                "course": "Advanced Neurology Updates",
+                "rating": 5,
+                "text": "Even after years in practice, I wanted to stay updated with the latest advances in neurology. This course provided cutting-edge research and new treatment protocols in a digestible format. Excellent for continuous learning!",
+                "avatar": "/avatar_doctor_female.png"
+            },
+            {
+                "name": "Dr. Ahmed Hassan",
+                "title": "IMG preparing for licensing exams",
+                "course": "Clinical Skills Review",
+                "rating": 5,
+                "text": "As an IMG preparing for licensing exams, I needed structured, high-yield content that covered clinical scenarios I'd face. The systematic approach and clinical reasoning frameworks helped me pass my exams on the first attempt.",
+                "avatar": "/avatar_doctor_male_1.png"
+            }
+        ]
+    }
+}

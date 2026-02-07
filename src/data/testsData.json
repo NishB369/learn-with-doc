@@ -1,0 +1,330 @@
+[
+    {
+        "id": "usmle-step-1-comprehensive",
+        "title": "USMLE Step 1 Comprehensive",
+        "category": "Licensing",
+        "duration": "8 hours",
+        "questionsCount": 280,
+        "difficulty": "Hard",
+        "price": "149",
+        "image": "/test_usmle.png",
+        "description": "Full-length simulation of the USMLE Step 1 exam covering all major organ systems and disciplines.",
+        "longDescription": "This comprehensive practice exam is designed to simulate the actual USMLE Step 1 experience. It covers all major disciplines including pathology, physiology, pharmacology, biochemistry, microbiology, immunology, and behavioral sciences. The test is timed to match the real exam pace, helping you build stamina and identify weak areas before test day.",
+        "rating": 4.9,
+        "attempts": 1205,
+        "reviewsCount": 342,
+        "instructor": {
+            "name": "Dr. Emily Chen",
+            "role": "Medical Educator",
+            "bio": "Dr. Chen is a board-certified pathologist with over 10 years of experience in medical education and board prep.",
+            "image": "/avatar_doctor_female.png",
+            "courses": 12,
+            "students": "25,000+"
+        },
+        "features": [
+            "280 High-yield questions",
+            "Detailed explanations for all options",
+            "Performance analysis report",
+            "Simulated exam interface"
+        ],
+        "curriculum": [
+            {
+                "title": "Block 1: Foundation Sciences",
+                "lessons": [
+                    "Biochemistry",
+                    "Genetics",
+                    "Immunology"
+                ]
+            },
+            {
+                "title": "Block 2: Organ Systems I",
+                "lessons": [
+                    "Cardiovascular",
+                    "Respiratory",
+                    "Renal"
+                ]
+            },
+            {
+                "title": "Block 3: Organ Systems II",
+                "lessons": [
+                    "Gastrointestinal",
+                    "Reproductive",
+                    "Endocrine"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "internal-medicine-board-review",
+        "title": "Internal Medicine Board Review",
+        "category": "Board Certification",
+        "duration": "4 hours",
+        "questionsCount": 150,
+        "difficulty": "Advanced",
+        "price": "99",
+        "image": "/test_internal_med.png",
+        "description": "High-yield questions targeting the ABIM certification exam blueprint.",
+        "longDescription": "Prepare for the ABIM certification with questions that consistently appear on the board exam. Focusing on high-yield topics in cardiology, gastroenterology, and infectious disease, this review test helps you solidify your clinical knowledge and test-taking strategy.",
+        "rating": 4.7,
+        "attempts": 890,
+        "reviewsCount": 156,
+        "instructor": {
+            "name": "Dr. James Wilson",
+            "role": "Program Director",
+            "bio": "Dr. Wilson is the Residency Program Director at a major university hospital.",
+            "image": "/avatar_doctor_male_1.png",
+            "courses": 8,
+            "students": "15,000+"
+        },
+        "features": [
+            "150 Updated board-style questions",
+            "Latest guideline references",
+            "Visual aids and ECGs"
+        ],
+        "curriculum": [
+            {
+                "title": "Section 1: Cardiology & Pulmonology",
+                "lessons": [
+                    "CAD & ACS",
+                    "Heart Failure",
+                    "COPD & Asthma"
+                ]
+            },
+            {
+                "title": "Section 2: Gastroenterology",
+                "lessons": [
+                    "Liver Disease",
+                    "IBD",
+                    "Pancreatitis"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "clinical-cardiology-quiz",
+        "title": "Clinical Cardiology Quiz",
+        "category": "Specialty",
+        "duration": "1 hour",
+        "questionsCount": 50,
+        "difficulty": "Intermediate",
+        "price": "29",
+        "image": "/test_cardio.png",
+        "description": "Test your knowledge on ECG interpretation, heart failure management, and valvular disorders.",
+        "longDescription": "A focused quiz designed to sharpen your cardiology skills. Topics include arrhythmia recognition, management of acute coronary syndromes, and updated heart failure guidelines.",
+        "rating": 4.8,
+        "attempts": 2100,
+        "reviewsCount": 520,
+        "instructor": {
+            "name": "Dr. Priya Patel",
+            "role": "Cardiologist",
+            "bio": "Specializes in electrophysiology and clinical cardiology.",
+            "image": "/instructor.png",
+            "courses": 6,
+            "students": "12,000+"
+        },
+        "features": [
+            "50 Focused questions",
+            "ECG Image bank",
+            "Instant feedback"
+        ],
+        "curriculum": [
+            {
+                "title": "Quiz Topics",
+                "lessons": [
+                    "ECG Interpretation",
+                    "Valvular Disorders",
+                    "Heart Failure Management"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "pediatric-milestones",
+        "title": "Pediatric Developmental Milestones",
+        "category": "Specialty",
+        "duration": "30 mins",
+        "questionsCount": 25,
+        "difficulty": "Beginner",
+        "price": "15",
+        "image": "/test_peds.png",
+        "description": "Quick check of normal developmental milestones from infancy to adolescence.",
+        "longDescription": "Assess your ability to identify normal vs. abnormal development in pediatric patients. Essential for medical students and pediatric residents.",
+        "rating": 4.6,
+        "attempts": 3400,
+        "reviewsCount": 410,
+        "instructor": {
+            "name": "Dr. Anita Singh",
+            "role": "Pediatrician",
+            "bio": "Dedicated to child health and development education.",
+            "image": "/avatar_doctor_female.png",
+            "courses": 5,
+            "students": "8,000+"
+        },
+        "features": [
+            "25 Rapid-fire questions",
+            "Milestone charts included"
+        ],
+        "curriculum": [
+            {
+                "title": "Developmental Stages",
+                "lessons": [
+                    "Infancy (0-12mo)",
+                    "Toddlerhood (1-3yr)",
+                    "Preschool & School Age"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "emergency-triage-sim",
+        "title": "Emergency Triage Simulation",
+        "category": "Clinical Skills",
+        "duration": "2 hours",
+        "questionsCount": 60,
+        "difficulty": "Intermediate",
+        "price": "49",
+        "image": "/test_emergency.png",
+        "description": "Scenario-based questions to practice rapid assessment and prioritization in the ER.",
+        "longDescription": "Put your decision-making skills to the test with realistic ER scenarios. Learn to prioritize patients based on acuity using the ESI triage system.",
+        "rating": 4.9,
+        "attempts": 1500,
+        "reviewsCount": 230,
+        "instructor": {
+            "name": "Dr. James Carter",
+            "role": "ER Physician",
+            "bio": "Trauma team leader with extensive experience in emergency medicine.",
+            "image": "/avatar_doctor_male_2.png",
+            "courses": 7,
+            "students": "14,000+"
+        },
+        "features": [
+            "60 Clinical Scenarios",
+            "Triage Protocols",
+            "Critical Thinking explanations"
+        ],
+        "curriculum": [
+            {
+                "title": "Triage Levels",
+                "lessons": [
+                    "ESI Level 1 & 2 (Resuscitation/Emergent)",
+                    "ESI Level 3 (Urgent)",
+                    "ESI Level 4 & 5 (Less Urgent)"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "surgical-anatomy-review",
+        "title": "Surgical Anatomy Review",
+        "category": "Surgery",
+        "duration": "3 hours",
+        "questionsCount": 100,
+        "difficulty": "Advanced",
+        "price": "79",
+        "image": "/test_surgery.png",
+        "description": "Detailed anatomy questions with a focus on surgical approaches and complications.",
+        "longDescription": "A robust review of anatomy relevant to general surgery. Topics include abdominal wall, inguinal region, neck, and vascular structures.",
+        "rating": 4.5,
+        "attempts": 600,
+        "reviewsCount": 85,
+        "instructor": {
+            "name": "Prof. Alan Grant",
+            "role": "General Surgeon",
+            "bio": "Professor of Surgery with a passion for anatomical teaching.",
+            "image": "/avatar_doctor_male_1.png",
+            "courses": 9,
+            "students": "18,000+"
+        },
+        "features": [
+            "100 Anatomy questions",
+            "Diagram labeling",
+            "Surgical correlation notes"
+        ],
+        "curriculum": [
+            {
+                "title": "Anatomical Regions",
+                "lessons": [
+                    "Abdominal Wall & Hernias",
+                    "Biliary Tree & Liver",
+                    "Thyroid & Parathyroid"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "pharmacology-calculations",
+        "title": "Pharmacology Calculations",
+        "category": "Basic Sciences",
+        "duration": "1.5 hours",
+        "questionsCount": 40,
+        "difficulty": "Intermediate",
+        "price": "35",
+        "image": "/test_pharma.png",
+        "description": "Practice dosage calculations, infusion rates, and pharmacokinetics.",
+        "longDescription": "Master the math behind safe medication administration. Drills include weight-based dosing, IV drip rates, and unit conversions.",
+        "rating": 4.4,
+        "attempts": 1800,
+        "reviewsCount": 310,
+        "instructor": {
+            "name": "Dr. Sarah Jenkins",
+            "role": "Clinical Pharmacist",
+            "bio": "Expert in medication safety and dosing protocols.",
+            "image": "/instructor.png",
+            "courses": 4,
+            "students": "6,000+"
+        },
+        "features": [
+            "40 Calculation problems",
+            "Step-by-step solutions",
+            "Formula sheet included"
+        ],
+        "curriculum": [
+            {
+                "title": "Math Modules",
+                "lessons": [
+                    "Unit Conversions",
+                    "Weight-based Dosing",
+                    "IV Infusion Rates"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "ethics-and-professionalism",
+        "title": "Medical Ethics & Professionalism",
+        "category": "General",
+        "duration": "1 hour",
+        "questionsCount": 30,
+        "difficulty": "Beginner",
+        "price": "Free",
+        "image": "/test_ethics.png",
+        "description": "Common ethical scenarios and professional conduct questions for medical students.",
+        "longDescription": "Navigate complex ethical dilemmas often encountered in clinical practice. Topics include patient autonomy, informed consent, and confidentiality.",
+        "rating": 4.8,
+        "attempts": 5000,
+        "reviewsCount": 1200,
+        "instructor": {
+            "name": "Dr. Lisa Wong",
+            "role": "Ethicist",
+            "bio": "Chair of the Hospital Ethics Committee.",
+            "image": "/avatar_doctor_female.png",
+            "courses": 3,
+            "students": "9,000+"
+        },
+        "features": [
+            "30 Scenario questions",
+            "Ethical framework explanations",
+            "Free access"
+        ],
+        "curriculum": [
+            {
+                "title": "Core Principles",
+                "lessons": [
+                    "Autonomy & Consent",
+                    "Beneficence & Non-maleficence",
+                    "Justice & Resource Allocation"
+                ]
+            }
+        ]
+    }
+]

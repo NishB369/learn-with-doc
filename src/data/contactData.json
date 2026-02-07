@@ -1,0 +1,90 @@
+{
+    "header": {
+        "tag": "Contact Us",
+        "title": "Get in Touch with Our Team",
+        "subtitle": "Have questions about our courses or need assistance? We're here to help you on your medical learning journey."
+    },
+    "contactInfo": {
+        "details": [
+            {
+                "icon": "Mail",
+                "label": "Email Us",
+                "value": "support@learnwithdoc.com",
+                "link": "mailto:support@learnwithdoc.com"
+            },
+            {
+                "icon": "Phone",
+                "label": "Call Us",
+                "value": "+1 (555) 123-4567",
+                "link": "tel:+15551234567"
+            },
+            {
+                "icon": "MapPin",
+                "label": "Visit Us",
+                "value": "123 Medical Plaza, Health City, NY 10001",
+                "link": "https://maps.google.com"
+            }
+        ],
+        "socials": [
+            {
+                "icon": "Twitter",
+                "link": "#"
+            },
+            {
+                "icon": "Linkedin",
+                "link": "#"
+            },
+            {
+                "icon": "Instagram",
+                "link": "#"
+            },
+            {
+                "icon": "Facebook",
+                "link": "#"
+            }
+        ]
+    },
+    "form": {
+        "title": "Send us a Message",
+        "fields": {
+            "name": {
+                "label": "Full Name",
+                "placeholder": "Dr. Sarah Smith"
+            },
+            "email": {
+                "label": "Email Address",
+                "placeholder": "sarah@hospital.com"
+            },
+            "subject": {
+                "label": "Subject",
+                "placeholder": "How can we help?"
+            },
+            "message": {
+                "label": "Message",
+                "placeholder": "Tell us more about your inquiry..."
+            }
+        },
+        "buttonText": "Send Message"
+    },
+    "faq": {
+        "title": "Frequently Asked Questions",
+        "items": [
+            {
+                "question": "How do I access my purchased courses?",
+                "answer": "Once purchased, you can access your courses immediately by logging into your account and navigating to the 'My Learning' dashboard."
+            },
+            {
+                "question": "Do you offer certificates upon completion?",
+                "answer": "Yes, all our courses include valid certificates of completion that you can download and share on your professional profiles."
+            },
+            {
+                "question": "Can I get a refund if I'm not satisfied?",
+                "answer": "We offer a 30-day money-back guarantee. If you're not completely satisfied with the course content, contact our support team for a full refund."
+            },
+            {
+                "question": "Are new courses added regularly?",
+                "answer": "Absolutely! We partner with top medical experts to launch new courses and update existing content every month."
+            }
+        ]
+    }
+}

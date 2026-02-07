@@ -1,0 +1,106 @@
+{
+    "hero": {
+        "title": "Empowering the Next Generation of Healers",
+        "subtitle": "We are dedicated to providing world-class medical education that bridges the gap between theory and clinical practice."
+    },
+    "founder": {
+        "title": "From the Hospital to You",
+        "subtitle": "Meet Dr. Anderson",
+        "description": "After decades of teaching residents, mentoring medical students, and witnessing the challenges of continuing medical education firsthand, Dr. Anderson decided to create a solution that would bring expert medical education directly to learners—regardless of their location or schedule.",
+        "quote": "Dr. Academy was born from a simple observation: too many talented healthcare professionals were struggling to access the specialized training they needed to excel in their careers."
+    },
+    "journey": [
+        {
+            "year": "2020",
+            "title": "The Beginning",
+            "description": "Founded by Dr. Anderson and a team of passionate physicians during the global health crisis to ensure continuous medical education access."
+        },
+        {
+            "year": "2022",
+            "title": "Global Reach",
+            "description": "Expanded to serve learners in over 50 countries, partnering with major medical institutions for accreditation."
+        },
+        {
+            "year": "2024",
+            "title": "Innovation Leap",
+            "description": "Launched industry-first AI diagnostic simulations and 3D anatomy tools, setting a new standard for online learning."
+        },
+        {
+            "year": "2026",
+            "title": "Present Day",
+            "description": "A thriving community of 50,000+ professionals, constantly evolving to meet the future of healthcare."
+        }
+    ],
+    "stats": [
+        {
+            "value": "10k+",
+            "label": "Active Students"
+        },
+        {
+            "value": "50+",
+            "label": "Countries"
+        },
+        {
+            "value": "200+",
+            "label": "Expert Instructors"
+        },
+        {
+            "value": "98%",
+            "label": "Success Rate"
+        }
+    ],
+    "values": [
+        {
+            "icon": "Heart",
+            "title": "Patient-Centric",
+            "description": "Every course, every lesson is designed with the ultimate goal of improving patient outcomes."
+        },
+        {
+            "icon": "Zap",
+            "title": "Innovation",
+            "description": "We leverage the latest technology to make learning more immersive, efficient, and effective."
+        },
+        {
+            "icon": "Shield",
+            "title": "Evidence-Based",
+            "description": "Our curriculum is rigorously vetted and constantly updated to reflect the latest clinical guidelines."
+        },
+        {
+            "icon": "Users",
+            "title": "Community",
+            "description": "Building a global network of peers and mentors to support lifelong learning and collaboration."
+        }
+    ],
+    "team": [
+        {
+            "name": "Dr. Sarah Mitchell",
+            "role": "Chief Medical Officer",
+            "bio": "Former Chief of Surgery with 20 years of experience. Passionate about surgical education and mentorship.",
+            "image": "/avatar_doctor_female.png"
+        },
+        {
+            "name": "Dr. Arin Patel",
+            "role": "Head of Curriculum",
+            "bio": "Expert in internal medicine and medical pedagogy. Leads our content development team.",
+            "image": "/avatar_doctor_male_1.png"
+        },
+        {
+            "name": "Dr. James Wilson",
+            "role": "Clinical Director",
+            "bio": "Emergency medicine specialist focused on simulation training and critical care protocols.",
+            "image": "/avatar_doctor_male_2.png"
+        },
+        {
+            "name": "Ms. Elena Rodriguez",
+            "role": "Head of Student Success",
+            "bio": "Ensures every learner receives the support and guidance they need to achieve their professional goals.",
+            "image": "/avatar_student_female.png"
+        }
+    ],
+    "cta": {
+        "title": "Ready to Learn from the Best?",
+        "subtitle": "Join our community of healthcare professionals and start your journey to excellence today.",
+        "primaryBtn": "View Courses",
+        "secondaryBtn": "Get in Touch"
+    }
+}

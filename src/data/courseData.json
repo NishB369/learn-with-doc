@@ -1,0 +1,387 @@
+[
+    {
+        "id": "clinical-diagnostics-masterclass",
+        "title": "Clinical Diagnostics Masterclass",
+        "description": "Master the art of clinical diagnosis with evidence-based methodologies and real-world case studies.",
+        "longDescription": "This comprehensive masterclass is designed for medical professionals who want to sharpen their diagnostic skills. You will learn systematic approaches to patient history, physical examination, and interpretation of diagnostic tests. Through interactive case studies, you will practice differentiating between varying conditions and formulating accurate treatment plans.",
+        "duration": "12 weeks",
+        "students": "2,500+",
+        "price": "299",
+        "image": "/course_diagnostics.png",
+        "rating": 4.8,
+        "reviewsCount": 124,
+        "badge": "Best Seller",
+        "tags": [
+            "Diagnostics",
+            "Clinical Skills",
+            "Internal Medicine"
+        ],
+        "instructor": {
+            "name": "Dr. Sarah Jenkins",
+            "role": "Senior Internist",
+            "bio": "Dr. Jenkins has over 20 years of experience in internal medicine and has won multiple awards for clinical teaching.",
+            "image": "/instructor.png",
+            "courses": 5,
+            "students": "10,000+"
+        },
+        "curriculum": [
+            {
+                "title": "Module 1: Foundations of Diagnosis",
+                "lessons": [
+                    "History Taking Techniques",
+                    "Physical Exam Refresher",
+                    "The Diagnostic Framework"
+                ]
+            },
+            {
+                "title": "Module 2: Cardiovascular System",
+                "lessons": [
+                    "ECG Interpretation",
+                    "Heart Sounds Workshop",
+                    "Common Cardiac Cases"
+                ]
+            }
+        ],
+        "features": [
+            "25 hours video",
+            "Certificate",
+            "Mobile access"
+        ],
+        "reviews": []
+    },
+    {
+        "id": "advanced-medical-anatomy",
+        "title": "Advanced Medical Anatomy",
+        "description": "Comprehensive anatomy training for healthcare professionals using modern 3D visualization techniques.",
+        "longDescription": "Dive deep into the human body with our Advanced Medical Anatomy course. utilizing state-of-the-art 3D modeling and cadaveric dissection videos.",
+        "duration": "10 weeks",
+        "students": "1,800+",
+        "price": "249",
+        "image": "/course_anatomy.png",
+        "rating": 4.9,
+        "reviewsCount": 89,
+        "badge": "Top Rated",
+        "tags": [
+            "Anatomy",
+            "Surgery"
+        ],
+        "instructor": {
+            "name": "Prof. Alan Grant",
+            "role": "Anatomist",
+            "bio": "Prof. Grant is a renowned anatomist with a background in trauma surgery.",
+            "image": "/avatar_doctor_male_1.png",
+            "courses": 3,
+            "students": "5,000+"
+        },
+        "curriculum": [
+            {
+                "title": "Module 1: Upper Limb",
+                "lessons": [
+                    "Shoulder Girdle",
+                    "Brachial Plexus",
+                    "Hand Anatomy"
+                ]
+            }
+        ],
+        "features": [
+            "15 hours 3D tours",
+            "Atlas included",
+            "Certificate"
+        ],
+        "reviews": []
+    },
+    {
+        "id": "emergency-medicine-essentials",
+        "title": "Emergency Medicine Essentials",
+        "description": "Rapid response protocols and critical care strategies for high-pressure emergency situations.",
+        "longDescription": "From triage to advanced life support, gain the confidence to handle critical situations with speed and precision.",
+        "duration": "6 weeks",
+        "students": "4,500+",
+        "price": "279",
+        "image": "/course_emergency.png",
+        "rating": 4.7,
+        "reviewsCount": 210,
+        "badge": "Trending",
+        "tags": [
+            "Emergency",
+            "Trauma"
+        ],
+        "instructor": {
+            "name": "Dr. James Carter",
+            "role": "ER Director",
+            "bio": "Dr. Carter leads one of the busiest trauma centers in New York.",
+            "image": "/avatar_doctor_male_2.png",
+            "courses": 8,
+            "students": "15,000+"
+        },
+        "curriculum": [
+            {
+                "title": "Module 1: Triage",
+                "lessons": [
+                    "ABCDE Assessment",
+                    "Mass Casualty"
+                ]
+            }
+        ],
+        "features": [
+            "Simulations",
+            "Cheat sheets"
+        ],
+        "reviews": []
+    },
+    {
+        "id": "patient-care-excellence",
+        "title": "Patient Care Excellence",
+        "description": "Elevate your patient care skills with proven techniques that improve outcomes and satisfaction.",
+        "longDescription": "Focuses on communication, empathy, and patient management.",
+        "duration": "8 weeks",
+        "students": "3,200+",
+        "price": "199",
+        "image": "/course_patient_care.png",
+        "rating": 4.9,
+        "reviewsCount": 156,
+        "tags": [
+            "Communication",
+            "Soft Skills"
+        ],
+        "instructor": {
+            "name": "Dr. Lisa Wong",
+            "role": "Palliative Care",
+            "bio": "Expert in patient-centered care.",
+            "image": "/avatar_doctor_female.png",
+            "courses": 2,
+            "students": "4,000+"
+        },
+        "curriculum": [
+            {
+                "title": "Module 1: Communication",
+                "lessons": [
+                    "Active Listening",
+                    "Breaking Bad News"
+                ]
+            }
+        ],
+        "features": [
+            "Role-play videos",
+            "Templates"
+        ],
+        "reviews": []
+    },
+    {
+        "id": "cardiology-ecg-mastery",
+        "title": "Cardiology: ECG Mastery",
+        "description": "Interpret ECGs with confidence. From basic rhythms to complex arrhythmias.",
+        "longDescription": "A complete guide to reading Electrocardiograms. Perfect for students and residents.",
+        "duration": "4 weeks",
+        "students": "5,100+",
+        "price": "149",
+        "image": "/course_diagnostics.png",
+        "rating": 4.6,
+        "reviewsCount": 300,
+        "tags": [
+            "Cardiology",
+            "Diagnostics"
+        ],
+        "instructor": {
+            "name": "Dr. Priya Patel",
+            "role": "Cardiologist",
+            "bio": "Specializes in electrophysiology.",
+            "image": "/instructor.png",
+            "courses": 4,
+            "students": "8,500+"
+        },
+        "curriculum": [],
+        "features": [],
+        "reviews": []
+    },
+    {
+        "id": "neurology-fundamentals",
+        "title": "Neurology Fundamentals",
+        "description": "Understand the nervous system and localization of lesions.",
+        "longDescription": "Simplify neurology. Learn how to localize lesions based on clinical presentation.",
+        "duration": "8 weeks",
+        "students": "2,200+",
+        "price": "229",
+        "image": "/course_anatomy.png",
+        "rating": 4.8,
+        "reviewsCount": 95,
+        "tags": [
+            "Neurology",
+            "Clinical Skills"
+        ],
+        "instructor": {
+            "name": "Dr. Sarah Jenkins",
+            "role": "Neurologist",
+            "bio": "Neurohospitalist with a passion for teaching.",
+            "image": "/instructor.png",
+            "courses": 5,
+            "students": "10,000+"
+        },
+        "curriculum": [],
+        "features": [],
+        "reviews": []
+    },
+    {
+        "id": "pediatric-emergencies",
+        "title": "Pediatric Emergencies",
+        "description": "Managing critical conditions in children. PALS guidelines and more.",
+        "longDescription": "Children are not just small adults. Learn specific protocols for pediatric care.",
+        "duration": "5 weeks",
+        "students": "1,500+",
+        "price": "189",
+        "image": "/course_emergency.png",
+        "rating": 4.9,
+        "reviewsCount": 70,
+        "tags": [
+            "Pediatrics",
+            "Emergency"
+        ],
+        "instructor": {
+            "name": "Dr. Anita Singh",
+            "role": "Pediatrician",
+            "bio": "Emergency Pediatrician.",
+            "image": "/avatar_doctor_female.png",
+            "courses": 1,
+            "students": "1,500+"
+        },
+        "curriculum": [],
+        "features": [],
+        "reviews": []
+    },
+    {
+        "id": "surgical-suturing-skills",
+        "title": "Surgical Suturing Skills",
+        "description": "Hands-on guide to suturing techniques for students and interns.",
+        "longDescription": "Master simple interrupted, mattress, and running sutures with video demos.",
+        "duration": "2 weeks",
+        "students": "6,000+",
+        "price": "99",
+        "image": "/course_patient_care.png",
+        "rating": 4.7,
+        "reviewsCount": 400,
+        "badge": "Best Value",
+        "tags": [
+            "Surgery",
+            "Skills"
+        ],
+        "instructor": {
+            "name": "Prof. Alan Grant",
+            "role": "Surgeon",
+            "bio": "General Surgeon.",
+            "image": "/avatar_doctor_male_1.png",
+            "courses": 3,
+            "students": "5,000+"
+        },
+        "curriculum": [],
+        "features": [],
+        "reviews": []
+    },
+    {
+        "id": "medical-research-101",
+        "title": "Medical Research 101",
+        "description": "How to design studies, write papers, and get published.",
+        "longDescription": "A step-by-step guide to academic medicine and publishing.",
+        "duration": "6 weeks",
+        "students": "900+",
+        "price": "199",
+        "image": "/course_diagnostics.png",
+        "rating": 4.5,
+        "reviewsCount": 45,
+        "tags": [
+            "Research",
+            "Academic"
+        ],
+        "instructor": {
+            "name": "Dr. Michael Ross",
+            "role": "Researcher",
+            "bio": "Published over 50 papers.",
+            "image": "/avatar_doctor_male_2.png",
+            "courses": 2,
+            "students": "2,000+"
+        },
+        "curriculum": [],
+        "features": [],
+        "reviews": []
+    },
+    {
+        "id": "radiology-chest-xray",
+        "title": "Radiology: Chest X-Ray",
+        "description": "Systematic approach to reading chest radiographs.",
+        "longDescription": "Don't miss a pneumothorax or pneumonia again.",
+        "duration": "3 weeks",
+        "students": "3,100+",
+        "price": "129",
+        "image": "/course_anatomy.png",
+        "rating": 4.8,
+        "reviewsCount": 180,
+        "tags": [
+            "Radiology",
+            "Diagnostics"
+        ],
+        "instructor": {
+            "name": "Dr. Michael Ross",
+            "role": "Radiologist",
+            "bio": "Chest imaging specialist.",
+            "image": "/avatar_doctor_male_2.png",
+            "courses": 2,
+            "students": "2,000+"
+        },
+        "curriculum": [],
+        "features": [],
+        "reviews": []
+    },
+    {
+        "id": "pharmacology-crash-course",
+        "title": "Pharmacology Crash Course",
+        "description": "High-yield pharmacology for board exams.",
+        "longDescription": "Memorize mechanisms of action and side effects efficiently.",
+        "duration": "5 weeks",
+        "students": "4,200+",
+        "price": "159",
+        "image": "/course_emergency.png",
+        "rating": 4.6,
+        "reviewsCount": 220,
+        "tags": [
+            "Pharmacology",
+            "Basic Sciences"
+        ],
+        "instructor": {
+            "name": "Dr. Sarah Jenkins",
+            "role": "Internist",
+            "bio": "Detailed explanations of drug classes.",
+            "image": "/instructor.png",
+            "courses": 5,
+            "students": "10,000+"
+        },
+        "curriculum": [],
+        "features": [],
+        "reviews": []
+    },
+    {
+        "id": "medical-ethics",
+        "title": "Medical Ethics & Law",
+        "description": "Navigating complex ethical dilemmas in clinical practice.",
+        "longDescription": "Understanding consent, capacity, and end-of-life care.",
+        "duration": "4 weeks",
+        "students": "1,200+",
+        "price": "179",
+        "image": "/course_patient_care.png",
+        "rating": 4.7,
+        "reviewsCount": 60,
+        "tags": [
+            "Ethics",
+            "Law"
+        ],
+        "instructor": {
+            "name": "Dr. Lisa Wong",
+            "role": "Ethicist",
+            "bio": "Chair of the ethics committee.",
+            "image": "/avatar_doctor_female.png",
+            "courses": 2,
+            "students": "4,000+"
+        },
+        "curriculum": [],
+        "features": [],
+        "reviews": []
+    }
+]
